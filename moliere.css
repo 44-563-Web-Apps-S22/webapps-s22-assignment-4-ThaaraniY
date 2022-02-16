@@ -31,3 +31,28 @@
     text-shadow:2px 3px 5px rgb(32, 161, 75);
     color: transparent;
 }
+td{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+    border: solid 1px;
+    text-align: center;
+    color:rgb(247, 6, 6);
+}
+ th {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+    border: solid 1px;
+    text-align: center;
+    color: rgb(66, 17, 243);
+}
+tr {
+    background-color:rgb(222, 238, 162) ;
+}
